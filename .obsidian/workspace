@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "bff013d26e966f5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2118323e856a828",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ML Concepts/Attention/Self attention.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95556be5dc6a16cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f33a0e7e661c71d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7234d0214601b145",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "65457943e303e1c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 383
+  },
+  "right": {
+    "id": "a461962e724ed3fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "b94e9059f8649fc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dac9011ae10b28e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ML Concepts/Attention/Self attention.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "e2118323e856a828",
+  "lastOpenFiles": [
+    "ML Concepts/Attention/Self attention.md",
+    "ML Concepts/Attention/Multi-Head Attention.md",
+    "ML Concepts/Attention/Attention.md",
+    "Math concepts/Dot product.md",
+    "Math concepts/Permutation equivariance.md",
+    "ML Concepts/Loss Functions/Cross Entropy Loss.md",
+    "ML Concepts/Activation Functions/Softmax.md",
+    "Excalidraw/Self attention drawing 1.md",
+    "ML Concepts/Parameter.md",
+    "Excalidraw/Drawing 2022-04-13 22.26.38.excalidraw.png"
+  ]
+}
