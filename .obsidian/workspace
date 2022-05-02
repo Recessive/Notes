@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ML Concepts/Attention/Self attention.md",
+            "file": "Machine Learning/ML Concepts/Loss Functions/Cross Entropy/Normalized Temperature-scaled Cross Entropy Loss.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML Concepts/Attention/Self attention.md",
+                "file": "Machine Learning/ML Concepts/Loss Functions/Cross Entropy/Normalized Temperature-scaled Cross Entropy Loss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "e2118323e856a828",
   "lastOpenFiles": [
-    "ML Concepts/Attention/Self attention.md",
-    "ML Concepts/Attention/Multi-Head Attention.md",
-    "ML Concepts/Attention/Attention.md",
-    "Math concepts/Dot product.md",
-    "Math concepts/Permutation equivariance.md",
-    "ML Concepts/Loss Functions/Cross Entropy Loss.md",
-    "ML Concepts/Activation Functions/Softmax.md",
-    "Excalidraw/Self attention drawing 1.md",
-    "ML Concepts/Parameter.md",
-    "Excalidraw/Drawing 2022-04-13 22.26.38.excalidraw.png"
+    "Machine Learning/ML Concepts/Loss Functions/Cross Entropy/Normalized Temperature-scaled Cross Entropy Loss.md",
+    "Math concepts/Fractions.md",
+    "Machine Learning/ML Concepts/Loss Functions/Contrastive Loss.md",
+    "Machine Learning/ML Concepts/Parameter.md",
+    "Machine Learning/Models/SimCLR.md",
+    "Machine Learning/Models/ResNet.md",
+    "Excalidraw/Drawing 2022-05-02 13.20.37.excalidraw.md",
+    "Machine Learning/ML Concepts/Learning Methods/Contrastive Learning.md",
+    "Machine Learning/Models/DSMIL/DSMIL.md",
+    "Machine Learning/Models/DSMIL/Whole Slide Image.md"
   ]
 }

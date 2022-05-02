@@ -24,14 +24,13 @@ As can be seen, a flow of the gradient entirely avoids the [[Softmax]] function 
 ## Bells and whistles
 On it's own, attention isn't enough. It's [[Permutation equivariance|permutation equivariant]] (*importantly, this means it doesn't care about order, so for a sequence, it has no concept of first or last*), so needs some addons.
 
-- **Scale by $\sqrt{K}$**: With the dimension of the input being $K$, the average size of the dot product scales by $\sqrt{K}$, so we must divide the dot product by $\sqrt{K}$ to keep the values in a reasonable range and prevent explosions.
+- **Scale by $\sqrt{K}$**: With the dimension of the input being $K$, the average size of the [[dot product]] scales by $\sqrt{K}$, so we must divide the [[dot product]] by $\sqrt{K}$ to keep the values in a reasonable range and prevent explosions.
 - **[[Multi-Head Attention]]**: The [[Permutation equivariance]] of attention means for each input, attention does not know it's neighbours. To remedy this, you use [[Multi-Head Attention]]
 
 
 ## Sub types of attention
 Attention includes some subtypes, the major one being [[Self attention]]. 
 
-#important
 #ofcitwasthe90s
 #concept
 #attention
