@@ -6,7 +6,7 @@
 
 Measures the euclidean distance between a pair of training samples. Defined as:
 $$\huge L(a, b, Y) = (1-Y)\times||a-b||^2+Y\times\text{max}(0,m-||a-b||^2)$$
-Where $a, b$ are both training samples, $Y$ is the label and $m$ is a [[Parameter#Hyper-parameter|hyper-parameter]] defining the upper-bound distance between dissimilar samples 
+Where $a, b$ are both training samples, $Y$ is the label and $m$ is a [[ML Glossary#Hyper-parameter|hyper-parameter]] defining the upper-bound distance between dissimilar samples 
 
 $Y=0$ if similar, $Y=1$ if dissimilar
 
@@ -30,9 +30,9 @@ Analysing the function, essentially:
 #### Why need an upper-bound?
 $m$ is included so the model can actually converge. Think about what happens if it's not there - the network will continuously push everything further apart, which causes samples that are similar to have to learn more to catch up to the pushed away sample, and they keep tugging on each other unto infinity.
 
-## Cross-Entropy Form
+## Other forms:
+- [[Normalized Temperature-scaled Cross Entropy Loss]]
 
 
 
 #loss-function
-#incomplete 

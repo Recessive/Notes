@@ -10,7 +10,7 @@ The above can be summarised as more or less being a big matrix multiplication. I
 $w'=QK^T$ -> $w=$softmax($w'$) -> $y^T=wV^T$
 in the above case $V$ would be the entire input sequence.
 
-Something this diagram is missing is the [[Parameter|parameters]] for attention. Attention typically has [[Parameter|parameters]] for the **key, query** and **value**. So in this case, between the **value** $x_1$ and the multiply gate there would be some weight and bias matrix $W_V$ and $B_V$ that would be multiplied and added to the **value** $x_1$. Note that typically attention has just 1 set of [[Parameter|parameters]] for each of the **key, query** and **value**. This makes attention able to handle indeterminate sequence lengths.
+Something this diagram is missing is the [[ML Glossary#Parameter|parameters]] for attention. Attention typically has [[ML Glossary#Parameter|parameters]] for the **key, query** and **value**. So in this case, between the **value** $x_1$ and the multiply gate there would be some weight and bias matrix $W_V$ and $B_V$ that would be multiplied and added to the **value** $x_1$. Note that typically attention has just 1 set of [[ML Glossary#Parameter|parameters]] for each of the **key, query** and **value**. This makes attention able to handle indeterminate sequence lengths.
 
 ### An important aside
 Keep in mind that the attention score for each **value is a single number**. This is the nature of how the [[Dot product]] works.

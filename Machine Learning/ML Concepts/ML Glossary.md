@@ -1,4 +1,10 @@
-# Parameter
+## Epoch
+A complete run of every single training example in the training set through the model.
+
+## Iteration
+A complete run of every training example in the current batch through the model.
+
+## Parameter
 is:
 1. A trainable variable within a network
 2. A value to be passed to a function
