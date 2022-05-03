@@ -13,6 +13,6 @@ The network follows a relatively simple structure. The order of operations is be
 ## Feature extractor training 
 The feature extractor is trained using [[Contrastive Learning#Unsupervised|Self-Supervised Contrastive Learning]]. Specifically, [[SimCLR]] is trained to associate patches from the same image into clumps in a batch of sub-images.
 
-
+#machine-learning
 #model
 #incomplete 

@@ -11,6 +11,6 @@ Python code for softmax:
 
 
 
-
+#machine-learning
 #activation-function
 #non-linear
