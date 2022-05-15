@@ -23,6 +23,10 @@ The output of the embeddings for the 2 magnifications are concatenated features.
 
 
 
+
+## MIL Aggregation
+
+
 #machine-learning
 #model
 #incomplete 

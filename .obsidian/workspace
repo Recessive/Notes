@@ -4,12 +4,22 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "eac23c4f23f3b640",
+=======
+        "id": "b0f108ac4ede0c06",
+>>>>>>> origin/master
         "type": "leaf",
         "state": {
           "type": "excalidraw",
           "state": {
+<<<<<<< HEAD
             "file": "Excalidraw/Drawing 2022-05-04 20.52.14.excalidraw.md"
+=======
+            "file": "Machine Learning/ML Concepts/Learning Methods/Multiple Instance Learning.md",
+            "mode": "source",
+            "source": false
+>>>>>>> origin/master
           }
         }
       }
@@ -67,7 +77,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Excalidraw/Drawing 2022-05-04 20.52.14.excalidraw.md",
+=======
+                "file": "Machine Learning/ML Concepts/Learning Methods/Multiple Instance Learning.md",
+>>>>>>> origin/master
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +98,7 @@
     "direction": "horizontal",
     "width": 300
   },
+<<<<<<< HEAD
   "active": "eac23c4f23f3b640",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2022-05-04 20.52.14.excalidraw.md",
@@ -96,5 +111,19 @@
     "Machine Learning/Models/SimCLR.md",
     "Machine Learning/Models/ResNet.md",
     "Machine Learning/Models/DSMIL/DSMIL.md"
+=======
+  "active": "b0f108ac4ede0c06",
+  "lastOpenFiles": [
+    "Machine Learning/ML Concepts/Learning Methods/Multiple Instance Learning.md",
+    "Machine Learning/Models/Visual Transformer.md",
+    "Machine Learning/Models/SubOmiEmbed.md",
+    "Machine Learning/Models/DSMIL/DSMIL.md",
+    "Machine Learning/Models/SimCLR.md",
+    "Biology/Biology Glossary.md",
+    "Machine Learning/ML Glossary.md",
+    "Machine Learning/Models/ResNet.md",
+    "Machine Learning/Models/DSMIL/DSMIL Code review.md",
+    "Excalidraw/SimCLR 2022-05-03 14.16.01.excalidraw.md"
+>>>>>>> origin/master
   ]
 }
