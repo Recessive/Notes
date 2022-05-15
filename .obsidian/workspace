@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e2118323e856a828",
+        "id": "b0f108ac4ede0c06",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Machine Learning/Models/DSMIL/DSMIL.md",
+            "file": "Machine Learning/Models/SimCLR.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Models/DSMIL/DSMIL.md",
+                "file": "Machine Learning/Models/SimCLR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "e2118323e856a828",
+  "active": "b0f108ac4ede0c06",
   "lastOpenFiles": [
-    "Machine Learning/Models/DSMIL/DSMIL.md",
     "Machine Learning/Models/SimCLR.md",
+    "Machine Learning/ML Concepts/Attention/Attention.md",
+    "Machine Learning/ML Concepts/Activation Functions/Softmax.md",
+    "DSMIL 2022-05-05 14.39.05.excalidraw.md",
+    "DSMIL 2022-05-05 14.39.05.excalidraw.png",
+    "Machine Learning/Models/DSMIL/DSMIL.md",
     "Machine Learning/Models/DSMIL/Whole Slide Image.md",
     "Pasted image 20220502141305.png",
     "Pasted image 20220502141301.png",
-    "Machine Learning/ML Concepts/Loss Functions/Cross Entropy/Normalized Temperature-scaled Cross Entropy Loss.md",
-    "Machine Learning/ML Concepts/Loss Functions/Cross Entropy/Cross Entropy Loss.md",
-    "Machine Learning/ML Concepts/Learning Methods/Contrastive Learning.md",
-    "Machine Learning/ML Concepts/Loss Functions/Triplet Loss.md",
-    "Machine Learning/ML Concepts/Loss Functions/Contrastive Loss.md"
+    "Machine Learning/ML Concepts/Loss Functions/Cross Entropy/Normalized Temperature-scaled Cross Entropy Loss.md"
   ]
 }

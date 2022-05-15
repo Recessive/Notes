@@ -1,4 +1,4 @@
-# Overview
+![[DSMIL 2022-05-05 14.39.05.excalidraw]]# Overview
 [Paper](https://arxiv.org/pdf/2011.08939.pdf)
 [Github](https://github.com/binli123/dsmil-wsi)
 
