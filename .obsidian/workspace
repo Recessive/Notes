@@ -89,6 +89,7 @@
   "active": "b0f108ac4ede0c06",
   "lastOpenFiles": [
     "Machine Learning/Models/SimCLR.md",
+<<<<<<< HEAD
     "Machine Learning/ML Concepts/Attention/Attention.md",
     "Machine Learning/ML Concepts/Activation Functions/Softmax.md",
     "DSMIL 2022-05-05 14.39.05.excalidraw.md",
@@ -98,5 +99,16 @@
     "Pasted image 20220502141305.png",
     "Pasted image 20220502141301.png",
     "Machine Learning/ML Concepts/Loss Functions/Cross Entropy/Normalized Temperature-scaled Cross Entropy Loss.md"
+=======
+    "Excalidraw/SimCLR 2022-05-03 14.16.01.excalidraw.md",
+    "Machine Learning/ML Concepts/Loss Functions/Cross Entropy/Normalized Temperature-scaled Cross Entropy Loss.md",
+    "Machine Learning/Models/ResNet.md",
+    "Machine Learning/Models/DSMIL/DSMIL Code review.md",
+    "Machine Learning/ML Concepts/Attention/Attention.md",
+    "Machine Learning/Models/DSMIL/DSMIL.md",
+    "Images/SimCLR_Algorithm.png",
+    "Machine Learning/ML Glossary.md",
+    "Math stuff/Permutation equivariance.md"
+>>>>>>> origin/master
   ]
 }
