@@ -11,7 +11,3 @@ is:
 
 ## Hyper-parameter
 Is a parameter who's value is used to tune the learning process. A really good example is the learning rate. Basically any custom value you set at the start of training is a hyper-parameter
-
-
-#machine-learning 
-#glossary

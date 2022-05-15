@@ -8,7 +8,5 @@ If you consider that the first step in [[Attention]] is to multiply the **key, q
 ![[Multi-Head Attention Simplified 2022-04-13 20.09.37.excalidraw]]
 Consider the example [here](https://youtu.be/KmAISyVvE1Y?t=1134) for an example of using multi-headed attention to give a network differing levels of view.
 
-
-#machine-learning
 #concept 
 #attention

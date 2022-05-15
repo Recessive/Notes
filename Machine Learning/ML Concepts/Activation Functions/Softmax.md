@@ -16,6 +16,6 @@ softmax_list = [s(input_list, i) for i in range(len(input_list))]
 
 
 
-#machine-learning
+
 #activation-function
 #non-linear

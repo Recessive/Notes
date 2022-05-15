@@ -6,7 +6,7 @@ Initially invented in the 90s under a different name (hypernetworks) it simply t
 Attention consists of a **key, value** and a **query**. They **key** and **query** may be anything, but the **value** is always the input:
 
 ![[Attention drawing 1|900]]
-The above can be summarized as more or less being a big matrix multiplication. If you take a look at the [[Dot product]], you can see that it can also be represented as a matrix multiplication. Using this form, the flow is ($K$=**key**, $Q$=**query**, $V$=**value**): 
+The above can be summarised as more or less being a big matrix multiplication. If you take a look at the [[Dot product]], you can see that it can also be represented as a matrix multiplication. Using this form, the flow is ($K$=**key**, $Q$=**query**, $V$=**value**): 
 $w'=QK^T$ -> $w=$softmax($w'$) -> $y^T=wV^T$
 in the above case $V$ would be the entire input sequence.
 
@@ -24,15 +24,13 @@ As can be seen, a flow of the gradient entirely avoids the [[Softmax]] function 
 ## Bells and whistles
 On it's own, attention isn't enough. It's [[Permutation equivariance|permutation equivariant]] (*importantly, this means it doesn't care about order, so for a sequence, it has no concept of first or last*), so needs some addons.
 
-- **Scale by $\sqrt{K}$**: With the dimension of the input being $K$, the average size of the [[Dot product]] scales by $\sqrt{K}$, so we must divide the [[Dot product]] by $\sqrt{K}$ to keep the values in a reasonable range and prevent explosions.
+- **Scale by $\sqrt{K}$**: With the dimension of the input being $K$, the average size of the [[dot product]] scales by $\sqrt{K}$, so we must divide the [[dot product]] by $\sqrt{K}$ to keep the values in a reasonable range and prevent explosions.
 - **[[Multi-Head Attention]]**: The [[Permutation equivariance]] of attention means for each input, attention does not know it's neighbours. To remedy this, you use [[Multi-Head Attention]]
 
 
 ## Sub types of attention
 Attention includes some subtypes, the major one being [[Self attention]]. 
 
-
-#machine-learning
 #ofcitwasthe90s
 #concept
 #attention

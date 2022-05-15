@@ -23,7 +23,3 @@ Labels are not available, and so they must be synthesised. The most common way o
 Generally, one training sample will be trained on a bunch of augmentations of itself as positive, and all other samples as negative
 
 A good example of this is the [[SimCLR]] network, that uses [[Normalized Temperature-scaled Cross Entropy Loss]] (basically log [[Softmax|softmax]] loss)
-
-#concept
-#machine-learning
-#learning-method
