@@ -1,4 +1,4 @@
-![[DSMIL 2022-05-05 14.39.05.excalidraw]]# Overview
+# Overview
 [Paper](https://arxiv.org/pdf/2011.08939.pdf)
 [Github](https://github.com/binli123/dsmil-wsi)
 
@@ -12,6 +12,10 @@ The network follows a relatively simple structure. The order of operations is be
 
 ## Feature extractor training 
 The feature extractor is trained using [[Contrastive Learning#Unsupervised|Self-Supervised Contrastive Learning]]. Specifically, [[SimCLR]] is trained to associate patches from the same image into clumps in a batch of sub-images.
+
+
+## MIL Aggregation
+
 
 #machine-learning
 #model

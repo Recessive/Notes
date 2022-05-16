@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Machine Learning/Models/SimCLR.md",
+            "file": "Machine Learning/ML Concepts/Learning Methods/Multiple Instance Learning.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Models/SimCLR.md",
+                "file": "Machine Learning/ML Concepts/Learning Methods/Multiple Instance Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "b0f108ac4ede0c06",
   "lastOpenFiles": [
+    "Machine Learning/ML Concepts/Learning Methods/Multiple Instance Learning.md",
+    "Machine Learning/Models/Visual Transformer.md",
+    "Machine Learning/Models/SubOmiEmbed.md",
+    "Machine Learning/Models/DSMIL/DSMIL.md",
     "Machine Learning/Models/SimCLR.md",
-    "Excalidraw/SimCLR 2022-05-03 14.16.01.excalidraw.md",
-    "Machine Learning/ML Concepts/Loss Functions/Cross Entropy/Normalized Temperature-scaled Cross Entropy Loss.md",
+    "Biology/Biology Glossary.md",
+    "Machine Learning/ML Glossary.md",
     "Machine Learning/Models/ResNet.md",
     "Machine Learning/Models/DSMIL/DSMIL Code review.md",
-    "Machine Learning/ML Concepts/Attention/Attention.md",
-    "Machine Learning/Models/DSMIL/DSMIL.md",
-    "Images/SimCLR_Algorithm.png",
-    "Machine Learning/ML Glossary.md",
-    "Math stuff/Permutation equivariance.md"
+    "Excalidraw/SimCLR 2022-05-03 14.16.01.excalidraw.md"
   ]
 }
