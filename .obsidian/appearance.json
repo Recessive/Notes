@@ -1,8 +1,9 @@
 {
-  "cssTheme": "",
+  "cssTheme": "Things",
   "translucency": false,
   "enabledCssSnippets": [
     "larger_latex"
   ],
-  "baseFontSize": 15
+  "baseFontSize": 15,
+  "accentColor": ""
 }

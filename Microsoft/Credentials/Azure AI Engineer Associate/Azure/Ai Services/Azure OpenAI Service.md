@@ -1,0 +1,1 @@
+[[Azure AI Services ||Azure AI Service]] for interacting with OpenAI models, mainly ChatGPT.

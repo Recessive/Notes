@@ -6,7 +6,7 @@ where $x$ is simply the entire input. To get the softmax of an entire vector, yo
 ![[Softmax 2022-04-13 19.45.55.excalidraw]]
 
 Python code for softmax:
-```
+```Python
 from math import exp
 s = lambda x, xi: exp(x[xi])/sum([exp(j) for j in x])
 

@@ -1,4 +1,3 @@
-# Permutation equivariance
 AKA **Permutation Invariance**?? I think?
 
 More or less just means if you permute some data, then apply a function to it, you will end up with the same result as if you applied the function first, then permuted the data. So for some function $f$, some input $x$ and some permutation of $x$ $P$:

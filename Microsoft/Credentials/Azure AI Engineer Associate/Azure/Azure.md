@@ -1,0 +1,1 @@
+Provide `Ocp-Apim-Subscription-Key` in a request header with the key to the resource.
