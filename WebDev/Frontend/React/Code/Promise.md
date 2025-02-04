@@ -1,8 +1,7 @@
 ---
-link: https://www.w3schools.com/js/js_promise.asp
 tags:
-  - react
-  - webdev
+  - webdev/react
+link: https://www.w3schools.com/js/js_promise.asp
 ---
 
 A promise is an object that holds the result of an asynchronous function. It's basically a nice wrapper that does callbacks for async functions for you. Common uses:

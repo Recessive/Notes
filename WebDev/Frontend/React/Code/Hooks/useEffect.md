@@ -1,8 +1,6 @@
 ---
-link: https://www.w3schools.com/react/react_useeffect.asp
 tags:
-  - react
-  - hooks
-  - webdev
+  - webdev/react/hooks
+link: https://www.w3schools.com/react/react_useeffect.asp
 ---
-Run asynchronous code inside components (aka side effecs)
+Run asynchronous code inside components (aka [[Side Effect]])

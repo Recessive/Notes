@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyberglass/bProp.md",
+                "file": "WebDev/Concepts/Traditional Web App.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bProp"
+              "title": "Traditional Web App"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -125,6 +126,29 @@
   },
   "active": "44ffa49eab7e10ec",
   "lastOpenFiles": [
+    "WebDev/Tags/Link.md",
+    "WebDev/Concepts/Traditional Web App.md",
+    "WebDev/Concepts/Attribute.md",
+    "WebDev/Concepts/Element.md",
+    "WebDev/Concepts/Document Object Model.md",
+    "WebDev/Concepts/Tag.md",
+    "WebDev/Concepts/CSS.md",
+    "WebDev/Concepts/HTTP GET.md",
+    "WebDev/Tags",
+    "WebDev/Concepts/Anonymous Function.md",
+    "WebDev/Concepts",
+    "Images/Pasted image 20250204142452.png",
+    "Images/Pasted image 20250204142407.png",
+    "Images/Pasted image 20250204142434.png",
+    "WebDev/Frontend/React/Code/Hooks/useEffect.md",
+    "WebDev/Frontend/React/Code/Promise.md",
+    "WebDev/Frontend/React/Code/States.md",
+    "WebDev/Frontend/React/Concepts/React Component.md",
+    "WebDev/Frontend/React/Concepts/React Prop.md",
+    "WebDev/Frontend/React/Concepts/Side Effect.md",
+    "WebDev/Frontend/React/Libraries/Navigation/Navigation Tabs.md",
+    "WebDev/Frontend/React/Libraries/Navigation/React Navigation.md",
+    "WebDev/Backend/Supabase.md",
     "Microsoft/Credentials/Azure AI Engineer Associate/Azure/Ai Services/Microsoft Entra ID Authentication.md",
     "Cyberglass/bProp.md",
     "Microsoft/Credentials/Azure AI Engineer Associate/Azure/Ai Services/Azure OpenAI Service.md",
@@ -134,24 +158,6 @@
     "Microsoft/Credentials/Azure AI Engineer Associate/Azure/Ai Services/Azure AI Language.md",
     "Cyberglass",
     "Microsoft/Credentials/Azure AI Engineer Associate/Azure/Azure.md",
-    "Natural language processing.md",
-    "Microsoft/Credentials/Azure AI Engineer Associate/Responsible AI.md",
-    "Microsoft/Credentials/Azure AI Engineer Associate/Definitions/Machine Learning.md",
-    "Microsoft/Credentials/Azure AI Engineer Associate/Definitions/Data Science.md",
-    "Microsoft/Credentials/Azure AI Engineer Associate/Definitions/AI.md",
-    "Microsoft/Credentials/Azure AI Engineer Associate/Azure/Azure Machine Learning.md",
-    "customvision.ai.md",
-    "www.customvision.ai.md",
-    "Math stuff/Binary Classification/Recall.md",
-    "Math stuff/Binary Classification/ROC.md",
-    "Biology/Biology Glossary.md",
-    "Machine Learning/ML Concepts/Loss Functions/Triplet Loss.md",
-    "Math stuff/Permutation equivariance.md",
-    "Math stuff/Markov Chain.md",
-    "Math stuff/Fractions.md",
-    "Math stuff/Dot product.md",
-    "Excalidraw/Dot product 2022-04-13 14.31.43.excalidraw.md",
-    "Math stuff/Binary Classification/True Positive.md",
     "Images/Pasted image 20250108152527.png",
     "Images/ROC.png",
     "Images/Pasted image 20250108151941.png",
@@ -159,17 +165,12 @@
     "Images/Pasted image 20250108151807.png",
     "Images/Pasted image 20250107155646.png",
     "Images/SimCLR_Algorithm.png",
-    "Images/DSMIL 2022-05-05 14.39.05.excalidraw.png",
-    "Images/Pasted image 20250108152407.png",
-    "Images/Pasted image 20250107155630.png",
     "Microsoft/Credentials/Azure AI Engineer Associate/Azure/Ai Services",
     "Microsoft/Credentials/Azure AI Engineer Associate/Azure",
     "Microsoft/Credentials/Azure AI Engineer Associate/Responsible AI",
     "Microsoft/Credentials/Azure AI Engineer Associate/Definitions",
     "Microsoft/Credentials/Azure AI Engineer Associate",
     "Microsoft/Credentials",
-    "Microsoft",
-    "Machine Learning/ML Concepts/NLP",
-    "Machine Learning/Models/NLP"
+    "Microsoft"
   ]
 }

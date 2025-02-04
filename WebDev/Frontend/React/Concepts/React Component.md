@@ -1,10 +1,9 @@
 ---
 tags:
-  - react
-  - webdev
+  - webdev/react
 link: https://www.w3schools.com/react/react_components.asp
 ---
-Independent reusable code. Are essentially immutable functions that return HTML (sometimes are also classes)
+Independent reusable code. Are essentially immutable functions that return HTML (can also be classes). Should be pure
 
 
 To create a component, either declare a standard js/ts function, or create a class that inherits from `React.Component`:

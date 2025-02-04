@@ -1,8 +1,7 @@
 ---
-link: https://www.w3schools.com/react/react_state.asp
 tags:
-  - react
-  - webdev
+  - webdev/react
+link: https://www.w3schools.com/react/react_state.asp
 ---
 
 [[React]] states are used to call the renderer. When you update a stateful value, all components that use that value will be re-rendered. To create a stateful value, use `useState`
