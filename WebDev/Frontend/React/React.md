@@ -1,6 +1,6 @@
 ---
 tags:
-  - webdev
+  - webdev/react
 link: https://www.w3schools.com/react/default.asp
 ---
 An open-source frontend JS library for making web pages basically. Made and maintained by meta.
@@ -12,8 +12,8 @@ has many subtypes:
 
 # React concepts:
 
-- [[React Component |Component]]: Independent reusable code. Are essentially immutable functions that return HTML (sometimes are also classes)
-- [[React Prop|Prop]]: Arguments passed to **Components**.
+- [[Component|Component]]: Independent reusable code. Are essentially immutable functions that return HTML (sometimes are also classes)
+- [[Prop|Prop]]: Arguments passed to **Components**.
 
 
 
